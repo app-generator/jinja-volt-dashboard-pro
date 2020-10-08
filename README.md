@@ -35,7 +35,7 @@ Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components,
 
 <br />
 
-![Jinja Volt Dashboard PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-volt-pro/master/media/jinja-template-volt-pro-screen.png)
+![Jinja Volt Dashboard PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-volt-pro/main/media/jinja-template-volt-pro-intro.gif)
 
 <br />
 
