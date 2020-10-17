@@ -231,4 +231,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Volt PRO](https://jinja-template-volt-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://appseed.us/jinja-template) **Volt PRO** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
