@@ -6,7 +6,7 @@
 
 > Jinja Template Features
 
-- UI Kit: **Volt Dashboard PRO** by **Themesberg**
+- UI Kit: **Volt Dashboard PRO** (v1.2.0) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
