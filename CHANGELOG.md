@@ -1,8 +1,10 @@
 # Change Log
 
-## [1.0.1] 2020-12-14
+## [1.0.1] 2021-01-20
 
-- Update UI - Volt PRO v1.2.0
+- Bump UI - Volt PRO v1.2.0
+- Fixed calendar page (added missing modals)
+- Added `canonical` on master pages 
 
 ## [1.0.0] 2020-10-08
 ### Initial Release
