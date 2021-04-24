@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.3] 2021-04-24
+
+- Bump UI - Volt PRO v1.3.1
+
 ## [1.0.2] 2021-01-20
 
 - UI - Patch Notification Page to show alerts. Updated file(s):
