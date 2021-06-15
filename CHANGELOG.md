@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.4] 2021-06-15
+
+- Correct 404 Links - UI Docs 
+
 ## [1.0.3] 2021-04-24
 
 - Bump UI - Volt PRO v1.3.1
