@@ -16,7 +16,7 @@
 
 - [Jinja Volt PRO](https://appseed.us/jinja-template/jinja-template-volt-pro) - Product page
 - [Jinja Volt PRO - Demo](https://jinja-volt-pro.appseed-srv1.com/) - LIVE Demo
-- [Jinja Volt PRO - Docs](https://docs.appseed.us/jinja-template/jinja-template-volt-pro/) - Product documentation
+- [Jinja Volt PRO - Docs](https://docs.appseed.us/products/jinja-templates/volt-dashboard-pro) - Product documentation
 
 <br />
 
