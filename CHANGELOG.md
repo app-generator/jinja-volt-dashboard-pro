@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.5] 2021-06-30
+
+- Bump UI - Volt PRO v1.4.1
+- Added scripts to recompile SCSS
+    - `app/static/assets`: Gulp toolchain
+
 ## [1.0.4] 2021-06-15
 
 - Correct 404 Links - UI Docs 
