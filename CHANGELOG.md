@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.6] 2021-11-22
+### Improvements
+
+- Update Docker Scripts
+
 ## [1.0.5] 2021-06-30
 
 - Bump UI - Volt PRO v1.4.1

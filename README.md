@@ -20,18 +20,24 @@
 
 <br />
 
-## **[Volt Dashboard PRO](https://docs.appseed.us/bootstrap-template/volt-dashboard-pro/)**
+## Quick Start in [Docker](https://www.docker.com/)
 
-Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript.
+> Get the code
 
-**800+ Components, 20 Example Pages** - There are more than 800 premium Bootstrap 5 components included with the admin dashboard, some of which are buttons, forms, alerts, datepickers, range sliders and many more. Volt Pro comes with 20 example pages including the overview page, messages, user settings, transactions, calendar, sign in, sign up, and many more pages.
+```bash
+$ git clone https://github.com/app-generator/priv-jinja-dashboard-volt-pro.git
+$ cd priv-jinja-dashboard-volt-pro
+```
 
-**10 Lightweight Plugins** - There are at least 10 lightweight Vanilla JS plugin libraries that we have customized and expanded in terms of features that you can use for your application. Some of these are a calendar, SVG maps, datepickers, notifications, drag and drop file uploads and many more.
+> Start the app in Docker
 
-**Tooling** - Sass files and a Gulp commands file that will let you build minified and un-minified project files with the ability to even add certain blocks of code based on your environment.
+```bash
+$ docker-compose pull   # download dependencies 
+$ docker-compose build  # local set up
+$ docker-compose up -d  # start the app 
+```
 
-- [Product Page](https://themesberg.com/product/admin-dashboard/volt-premium-bootstrap-5-dashboard) - hosted by [Themesberg](https://appseed.us/agency/themesberg)
-- [Product Docs - Quick Start](https://themesberg.com/docs/volt-bootstrap-5-dashboard/getting-started/quick-start/) - official product documentation
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
@@ -116,6 +122,49 @@ The project has a simple structure, represented as bellow:
    |
    |-- ************************************************************************
 ```
+
+<br />
+
+## Recompile CSS
+
+To recompile SCSS files, follow this setup:
+
+<br />
+
+**Step #1** - Install tools
+
+- [NodeJS](https://nodejs.org/en/) 12.x or higher
+- [Gulp](https://gulpjs.com/) - globally 
+    - `npm install -g gulp-cli`
+- [Yarn](https://yarnpkg.com/) (optional) 
+
+<br />
+
+**Step #2** - Change the working directory to `assets` folder
+
+```bash
+$ cd app/base/static/assets
+```
+
+<br />
+
+**Step #3** - Install modules (this will create a classic `node_modules` directory)
+
+```bash
+$ npm install
+// OR
+$ yarn
+```
+
+<br />
+
+**Step #4** - Edit & Recompile SCSS files 
+
+```bash
+$ gulp
+```
+
+The generated files (css, min.css) are saved in `static/assets/css` directory.
 
 <br />
 
@@ -231,4 +280,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://appseed.us/jinja-template) **Volt PRO** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Volt PRO](https://jinja-template-volt-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
