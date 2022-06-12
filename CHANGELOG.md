@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.7] 2022-06-12
+### Improvements
+
+- Built with [Volt Dashboard Generator](https://appseed.us/generator/volt-dashboard/)
+  - Timestamp: `2022-06-12 19:28`
+
 ## [1.0.6] 2021-11-22
 ### Improvements
 
